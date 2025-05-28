@@ -1,6 +1,6 @@
 # FL-SAM
 
-[ICML 2025]Pytorch implementations of some federated learning methods based on sharpness-aware minimization.
+Pytorch implementations of some federated learning methods based on sharpness-aware minimization.
 
 I built this repository based on [PFLlib](https://github.com/TsingZ0/PFLlib) and [FL-Simulator](https://github.com/woodenchild95/FL-Simulator).  Thanks for their superior and understandable code architecture.
 
