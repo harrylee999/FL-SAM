@@ -248,7 +248,7 @@ if you want to generate Pathological non-iid data:
 
 ```bash
 cd ./dataset 
-python generate_dataset.py --shard -data cifar10 -nc 100 -shard_per_user 2#Path(2)
+python generate_dataset.py --shard -data cifar10 -nc 100 -shard_per_user 2 #Path(2)
 ```
 
 ### (2) Dirichlet non-iid data
