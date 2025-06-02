@@ -181,25 +181,25 @@ In the above experiments, we employ SGD with a learning rate of 0.01, momentum o
         </tr>
         <tr>
             <td colspan="1"> FedSAM </td>
-            <td colspan="1"> {0.01,0.05,0.1} </td>
+            <td colspan="1"> {0.001,0.01,0.1} </td>
             <td colspan="1"> - </td>
             <td colspan="1"> - </td>
         </tr>
         <tr>
             <td colspan="1"> FedSpeed </td>
-            <td colspan="1"> {0.01,0.05,0.1} </td>
+            <td colspan="1"> {0.001,0.01,0.1} </td>
             <td colspan="1"> 10 </td>
             <td colspan="1"> - </td>
         </tr>
         <tr>
             <td colspan="1"> FedSMOO </td>
-            <td colspan="1"> {0.01,0.05,0.1} </td>
+            <td colspan="1"> {0.001,0.01,0.1} </td>
             <td colspan="1"> 10 </td>
             <td colspan="1"> - </td>
         </tr>
         <tr>
             <td colspan="1"> FedLESAM-D </td>
-            <td colspan="1"> {0.01,0.05,0.1} </td>
+            <td colspan="1"> {0.001,0.01,0.1} </td>
             <td colspan="1"> 10 </td>
             <td colspan="1"> - </td>
         </tr>
