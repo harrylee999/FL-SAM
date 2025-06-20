@@ -24,7 +24,7 @@ I did some optimization for time-saving and GPU-saving. For example, if you run 
 
 - **FedSMOO**—[Dynamic Regularized Sharpness Aware Minimization in Federated Learning: Approaching Global Consistency and Smooth Landscape](https://proceedings.mlr.press/v202/sun23h.html) ICML 2023
 - **FedLESAM**—[Locally Estimated Global Perturbations are Better than Local Perturbations for Federated Sharpness-aware Minimization]([arxiv.org/pdf/2405.18890](https://arxiv.org/pdf/2405.18890)) ICML 2024
-- **FedGMT**— One Arrow, Two Hawks: Sharpness-aware Minimization for Federated Learning via Global Model Trajectory ICML2025
+- **FedGMT**— [One Arrow, Two Hawks: Sharpness-aware Minimization for Federated Learning via Global Model Trajectory](https://openreview.net/pdf?id=80mK2Mqaph) ICML 2025
 
 
 
